@@ -1,5 +1,5 @@
 # load-balancer-exercise
-bottleneck
+This is an example of load balance running on docker with nginx
 
 # Run this by
 ```
